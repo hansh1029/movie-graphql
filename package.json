@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hansh1029/movie-graphql/issues"
   },
-  "homepage": "https://github.com/hansh1029/movie-graphql#readme"
+  "homepage": "https://github.com/hansh1029/movie-graphql#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
 }
